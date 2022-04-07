@@ -6,7 +6,7 @@
 - **[Kong](https://github.com/nicksc423/kong)** which contains a helm chart to run Kong (broken apart into an ingress & control plane so they can scale seperately) and an associated postgres DB
 - **[Web-Health-Check](https://github.com/nicksc423/web-health-check)** which is a simple Go app that makes a POST request to a webapi and exposes a prometheus metrics based on the response
 
-I also have various other repositories based on whatever I've been working on at the time 😊
+I also have various other repositories based on whatever I've been working on at the time that you should feel free to check out 😊
 
 <!---
 nicksc423/nicksc423 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
